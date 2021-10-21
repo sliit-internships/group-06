@@ -34,6 +34,6 @@ Registration, Login, Logout
     - internMgr -> intern manager role -> userID as 2
     - user -> user role -> userID as 1
 
-9. Sample outputs are added on Outputs Folder.
+9. Sample outputs are added on sample Outputs Folder.
 
 
