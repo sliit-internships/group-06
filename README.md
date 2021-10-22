@@ -23,8 +23,10 @@ Registration, Login, Logout
 4. Change the "db.config.js" file in "node-js-jwt-auth" folder according to your MySQL Connection (username and password)
 
 5. Then open the "node-js-jwt-auth" directory in command propmt and run "npm start" command
+If an error occurred while running this you have to run this command “npm install”. (you may also need to run “node server.js”).
 
 6. And also open the "react-jwt-auth" directory using an another command prompt and run "npm start"
+If an error occurred while running this you have to run this command “npm install”.
 
 7. After that you can connect to the IRMS web application. There you will be able to login and register to the system.
     Register -> Login
