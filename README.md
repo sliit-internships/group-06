@@ -54,7 +54,8 @@ prerequisites:
     password - VARCHAR(200)
     token - VARCHAR(255)
 
-sql script is added to the "irms-passwordReset" directory
+sql script is added to the "irms-passwordReset" directory and also insert data to the table
+
 
 to run this component:
 
