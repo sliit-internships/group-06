@@ -20,22 +20,19 @@ Registration, Login, Logout
 
 3. Create the database called "irms_db" (no need to create the tables since they will be automatically created )
 
-4. Change the "db.config.js" file in "node-js-jwt-auth" folder according to your MySQL Connection (username and password)
+4. Change the "db.config.js" file in "app->config" folder according to your MySQL Connection (username and password)
 
-5. Then open the "node-js-jwt-auth" directory in command propmt and run "npm start" command
+4. Then open the root directory which is "irms-backend" in command propmt and run "npm run dev" command
 If an error occurred while running this you have to run this command “npm install”. (you may also need to run “node server.js”).
 
-6. And also open the "react-jwt-auth" directory using an another command prompt and run "npm start"
-If an error occurred while running this you have to run this command “npm install”.
-
-7. After that you can connect to the IRMS web application. There you will be able to login and register to the system.
+5. After that you can connect to the IRMS web application. There you will be able to login and register to the system.
     Register -> Login
 
-8. Using postman you can register some users with /signup API. Users are based on roles.
+6. Using postman you can register some users with /signup API. Users are based on roles.
     - admin -> admin role -> userID as 3
     - internMgr -> intern manager role -> userID as 2
     - user -> user role -> userID as 1
 
-9. Sample outputs are added on sample Outputs Folder.
+7. Sample outputs are added on sample Outputs Folder.
 
 
