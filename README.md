@@ -70,3 +70,21 @@ Connected!:)"
 4. Go to your web browser and hit "http://127.0.0.1:8081/" and you will be able to go to the reset password page
 
 5. Give your email (must be an outlook mail) and click the the reset button
+
+
+************************************************************************************************************************************
+************************************************************************************************************************************
+
+# Group 06 - irms
+
+1. open the cient folder within the directory (Group 06 - irms) using cmd and type "npm install"
+
+2. open the server folder within the directory (Group 06 - irms) using cmd and type "install"
+
+3. open the cient folder within the directory (Group 06 - irms) using cmd and type "npm start"
+
+4. By doing 2 and 3 steps you will be abe to connect both frontend and backend
+
+5. First you have to register -> then login
+
+6. sql script is attached in the directory (Group 06 - irms)
